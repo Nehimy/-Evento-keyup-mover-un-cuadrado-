@@ -8,7 +8,7 @@ El motivo es simplente aprender a usar el evento keyup de javascript.
 
 ### Tema sobre el evento keyup:
 
-![Img. del tema keyup]((https://imgur.com/MFpJIcw.png)
+![Img. del tema keyup](https://imgur.com/MFpJIcw.png)
 
 [Evento keyup](https://ney.one/javascript-keyup-evento-onkeyup/)
 
